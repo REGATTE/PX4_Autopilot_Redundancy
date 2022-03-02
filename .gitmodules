@@ -1,0 +1,12 @@
+[submodule "MAVSDK"]
+	path = MAVSDK
+	url = https://github.com/mavlink/MAVSDK
+[submodule "mavlink"]
+	path = mavlink
+	url = https://github.com/mavlink/mavlink
+[submodule "qgroundcontrol"]
+	path = qgroundcontrol
+	url = https://github.com/mavlink/qgroundcontrol
+[submodule "PX4-Autopilot"]
+	path = PX4-Autopilot
+	url = https://github.com/UAV-TECH/PX4-Autopilot
